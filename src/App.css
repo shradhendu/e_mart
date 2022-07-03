@@ -1,0 +1,28 @@
+.navbar-nav a{
+font-size: 18px;
+}
+.home{
+    color:brown
+    
+  }
+  .product{
+    color:blueviolet
+  }
+  
+  .about{
+    color: burlywood;
+  }
+  
+  .card{
+    color:darkmagenta
+    
+  }
+  
+  .card-text{
+    color: green
+  }
+  
+  .navbar-brand{
+    color:crimson
+    
+  }
